@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="bluemoon">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0a1c4d" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="#0d1117"/>
+  <path fill="url(#b)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V140 H0Z;M0 70 Q150 110 300 70 T600 70 T900 70 T1200 70 V140 H0Z;M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V140 H0Z"/>
+  </path>
+  <path fill="url(#a)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 95 Q150 65 300 95 T600 95 T900 95 T1200 95 V140 H0Z;M0 95 Q150 125 300 95 T600 95 T900 95 T1200 95 V140 H0Z;M0 95 Q150 65 300 95 T600 95 T900 95 T1200 95 V140 H0Z"/>
+  </path>
+  <text x="600" y="40" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9cc8ff" letter-spacing="6">SIEMPRE APRENDIENDO ALGO NUEVO
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  </text>
+</svg>
