@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header-easykid.svg" alt="bluemoon" width="100%" />
+<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header-negro-rojo.svg" alt="bluemoon" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=DAC58D&center=true&vCenter=true&width=760&lines=Hola%2C+soy+bluemoon+%F0%9F%8C%99;Soy+fatalista+%F0%9F%96%A4;Estudio+redes+y+ciberseguridad+%F0%9F%9B%A1%EF%B8%8F;Armo+labs+en+GNS3+y+Packet+Tracer+%F0%9F%8C%90;Hago+apps+en+Kotlin+y+sitios+web+%F0%9F%93%B1;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Toca+los+botones+de+abajo+%F0%9F%91%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=E6E6E6&center=true&vCenter=true&width=760&lines=Hola%2C+soy+bluemoon+%F0%9F%8C%99;Soy+un+fatalista+%F0%9F%96%A4;Estudio+redes+y+ciberseguridad+%F0%9F%9B%A1%EF%B8%8F;Armo+labs+en+GNS3+y+Packet+Tracer+%F0%9F%8C%90;Hago+apps+en+Kotlin+y+sitios+web+%F0%9F%93%B1;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Toca+los+botones+de+abajo+%F0%9F%91%87" alt="Typing SVG" />
 
 <br><br>
 
-<a href="#proyectos"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Proyectos-bb5b43?style=for-the-badge&labelColor=140c0a" alt="Proyectos" /></a>
-<a href="#sobre-mi"><img src="https://img.shields.io/badge/%F0%9F%8C%99_Sobre_m%C3%AD-f0884c?style=for-the-badge&labelColor=140c0a" alt="Sobre mí" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Stack-ecb555?style=for-the-badge&labelColor=140c0a" alt="Stack" /></a>
-<a href="#actividad"><img src="https://img.shields.io/badge/%F0%9F%90%8D_Actividad-4c75f0?style=for-the-badge&labelColor=140c0a" alt="Actividad" /></a>
+<a href="#proyectos"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Proyectos-c1121f?style=for-the-badge&labelColor=0d0d0d" alt="Proyectos" /></a>
+<a href="#sobre-mi"><img src="https://img.shields.io/badge/%F0%9F%8C%99_Sobre_m%C3%AD-e6e6e6?style=for-the-badge&labelColor=0d0d0d" alt="Sobre mí" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Stack-8b0d16?style=for-the-badge&labelColor=0d0d0d" alt="Stack" /></a>
+<a href="#actividad"><img src="https://img.shields.io/badge/%F0%9F%90%8D_Actividad-4c75f0?style=for-the-badge&labelColor=0d0d0d" alt="Actividad" /></a>
 
 <br>
 
-![Visitas](https://komarev.com/ghpvc/?username=savkacarvajal&label=Visitas&color=bb5b43&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/savkacarvajal?label=Seguidores&style=flat-square&color=f0884c&labelColor=140c0a)
+![Visitas](https://komarev.com/ghpvc/?username=savkacarvajal&label=Visitas&color=c1121f&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/savkacarvajal?label=Seguidores&style=flat-square&color=e6e6e6&labelColor=0d0d0d)
 
 </div>
 
@@ -33,7 +33,7 @@
 ### 🦈 [shark2026](https://github.com/savkacarvajal/shark2026)
 Panel de ventas e inventario para módulos, con Astro y Firebase.
 
-[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/shark2026?style=for-the-badge&color=4c75f0&labelColor=140c0a)](https://github.com/savkacarvajal/shark2026)
+[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/shark2026?style=for-the-badge&color=c1121f&labelColor=0d0d0d)](https://github.com/savkacarvajal/shark2026)
 
 </td>
 <td width="50%" valign="top">
@@ -41,7 +41,7 @@ Panel de ventas e inventario para módulos, con Astro y Firebase.
 ### 📱 [HomePass](https://github.com/savkacarvajal/HomePass)
 App Android con Kotlin.
 
-[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/HomePass?style=for-the-badge&color=f0884c&labelColor=140c0a)](https://github.com/savkacarvajal/HomePass)
+[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/HomePass?style=for-the-badge&color=e6e6e6&labelColor=0d0d0d)](https://github.com/savkacarvajal/HomePass)
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ App Android con Kotlin.
 ### 🏠 [miksapropiedades](https://github.com/savkacarvajal/miksapropiedades)
 Sitio web inmobiliario.
 
-[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/miksapropiedades?style=for-the-badge&color=ecb555&labelColor=140c0a)](https://github.com/savkacarvajal/miksapropiedades)
+[![Lenguaje](https://img.shields.io/github/languages/top/savkacarvajal/miksapropiedades?style=for-the-badge&color=8b0d16&labelColor=0d0d0d)](https://github.com/savkacarvajal/miksapropiedades)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Sitio web inmobiliario.
 ### 🛡️ [sgsi-novaretail](https://github.com/savkacarvajal/sgsi-novaretail)
 SGSI basado en ISO/IEC 27001:2022.
 
-[![Estrellas](https://img.shields.io/github/stars/savkacarvajal/sgsi-novaretail?style=for-the-badge&logo=github&color=bb5b43&labelColor=140c0a)](https://github.com/savkacarvajal/sgsi-novaretail)
+[![Estrellas](https://img.shields.io/github/stars/savkacarvajal/sgsi-novaretail?style=for-the-badge&logo=github&color=4c75f0&labelColor=0d0d0d)](https://github.com/savkacarvajal/sgsi-novaretail)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Control de máquinas Windows a distancia mediante Telegram, en Python.
 <summary><b>🐧 Mi entorno Linux</b> · CachyOS + Hyprland</summary>
 <br>
 
-Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, visualizador de audio, panel de Wi-Fi/Bluetooth y pantalla de bloqueo propia. Tonos oscuros y cálidos, con el tema easykid. Los dotfiles viven en un repo privado.
+Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, visualizador de audio, panel de Wi-Fi/Bluetooth y pantalla de bloqueo propia. Los dotfiles viven en un repo privado.
 
 </details>
 
@@ -126,12 +126,12 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 
 | | |
 |---|---|
-| 🖤 **Filosofía** | Soy fatalista |
+| 🖤 **Filosofía** | Soy un fatalista |
 | 🎓 **Estudio** | Redes, cloud y ciberseguridad |
 | 🔭 **Ahora estoy en** | Hardening, ISO 27001 y laboratorios de red |
 | 🛠️ **Me gusta hacer** | Apps Android, sitios web y automatizaciones |
 | 🐧 **Mi sistema** | CachyOS + Hyprland, todo personalizado |
-| 🎨 **Mi paleta** | Tonos oscuros y cálidos: easykid |
+| 🎨 **Mi paleta** | Negro, blanco y rojo: easykid |
 
 </details>
 
@@ -182,7 +182,7 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=savkacarvajal&hide_border=true&background=140C0A&ring=BB5B43&fire=F0884C&currStreakNum=DAC58D&currStreakLabel=F0884C&sideNums=DAC58D&sideLabels=BB5B43&dates=BB5B43" alt="Racha" />
+<img src="https://streak-stats.demolab.com?user=savkacarvajal&hide_border=true&background=0D0D0D&ring=C1121F&fire=FF3B47&currStreakNum=E6E6E6&currStreakLabel=C1121F&sideNums=E6E6E6&sideLabels=9A9A9A&dates=9A9A9A" alt="Racha" />
 
 <br><br>
 
@@ -194,11 +194,11 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 
 <br><br>
 
-<a href="https://github.com/savkacarvajal?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_mis_repos-bb5b43?style=for-the-badge&logo=github&logoColor=white&labelColor=140c0a" alt="Repos" /></a>
-<a href="https://github.com/savkacarvajal?tab=followers"><img src="https://img.shields.io/badge/S%C3%ADgueme-f0884c?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=140c0a" alt="Sígueme" /></a>
+<a href="https://github.com/savkacarvajal?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_mis_repos-c1121f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="Repos" /></a>
+<a href="https://github.com/savkacarvajal?tab=followers"><img src="https://img.shields.io/badge/S%C3%ADgueme-e6e6e6?style=for-the-badge&logo=githubsponsors&logoColor=black&labelColor=0d0d0d" alt="Sígueme" /></a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/footer-easykid.svg" alt="bluemoon" width="100%" />
+<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/footer-negro-rojo.svg" alt="bluemoon" width="100%" />
 
 </div>

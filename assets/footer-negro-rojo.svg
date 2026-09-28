@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="bluemoon">
   <defs>
     <linearGradient id="a" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#bb5b43" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#4e0c00" stop-opacity="0.9"/>
+      <stop offset="0" stop-color="#c1121f" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#3a0508" stop-opacity="0.95"/>
     </linearGradient>
     <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f0884c" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#140c0a" stop-opacity="0.95"/>
+      <stop offset="0" stop-color="#e6e6e6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0d0d0d" stop-opacity="0.95"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="140" fill="#140c0a"/>
+  <rect width="1200" height="140" fill="#0d0d0d"/>
   <path fill="url(#b)" d="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V140 H0Z">
     <animate attributeName="d" dur="9s" repeatCount="indefinite"
       values="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V140 H0Z;M0 70 Q150 110 300 70 T600 70 T900 70 T1200 70 V140 H0Z;M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V140 H0Z"/>
@@ -18,7 +18,7 @@
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="M0 95 Q150 65 300 95 T600 95 T900 95 T1200 95 V140 H0Z;M0 95 Q150 125 300 95 T600 95 T900 95 T1200 95 V140 H0Z;M0 95 Q150 65 300 95 T600 95 T900 95 T1200 95 V140 H0Z"/>
   </path>
-  <text x="600" y="40" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#dac58d" letter-spacing="6">SOY FATALISTA, PERO SIGO APRENDIENDO
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+  <text x="600" y="40" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e6e6e6" letter-spacing="6">SOY UN FATALISTA, PERO SIGO APRENDIENDO
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>
   </text>
 </svg>
