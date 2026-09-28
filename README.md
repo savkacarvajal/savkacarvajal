@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header.svg?v=2" alt="bluemoon" width="100%" />
+<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header-easykid.svg" alt="bluemoon" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=DAC58D&center=true&vCenter=true&width=760&lines=Hola%2C+soy+bluemoon+%F0%9F%8C%99;Soy+fatalista+%F0%9F%96%A4;Estudio+redes+y+ciberseguridad+%F0%9F%9B%A1%EF%B8%8F;Armo+labs+en+GNS3+y+Packet+Tracer+%F0%9F%8C%90;Hago+apps+en+Kotlin+y+sitios+web+%F0%9F%93%B1;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Toca+los+botones+de+abajo+%F0%9F%91%87" alt="Typing SVG" />
 
@@ -199,6 +199,6 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/footer.svg?v=2" alt="bluemoon" width="100%" />
+<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/footer-easykid.svg" alt="bluemoon" width="100%" />
 
 </div>
