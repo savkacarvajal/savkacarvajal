@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500" role="img" aria-label="Language Radar">
+<rect width="500" height="500" rx="16" fill="#0d0d0d"/>
+<polygon points="268.4,248.7 279.7,283.7 250.0,305.2 220.3,283.7 231.6,248.7" fill="none" stroke="#3a1216" stroke-width="1"/>
+<polygon points="286.7,223.4 309.4,293.3 250.0,336.5 190.6,293.3 213.3,223.4" fill="none" stroke="#3a1216" stroke-width="1"/>
+<polygon points="305.1,198.2 339.2,303.0 250.0,367.8 160.8,303.0 194.9,198.2" fill="none" stroke="#3a1216" stroke-width="1"/>
+<polygon points="323.5,172.9 368.9,312.6 250.0,399.0 131.1,312.6 176.5,172.9" fill="none" stroke="#5c1a20" stroke-width="1"/>
+<line x1="250.0" y1="274.0" x2="323.5" y2="172.9" stroke="#3a1216" stroke-width="1"/>
+<line x1="250.0" y1="274.0" x2="368.9" y2="312.6" stroke="#3a1216" stroke-width="1"/>
+<line x1="250.0" y1="274.0" x2="250.0" y2="399.0" stroke="#3a1216" stroke-width="1"/>
+<line x1="250.0" y1="274.0" x2="131.1" y2="312.6" stroke="#3a1216" stroke-width="1"/>
+<line x1="250.0" y1="274.0" x2="176.5" y2="172.9" stroke="#3a1216" stroke-width="1"/>
+<polygon points="301.4,203.2 315.4,295.2 250.0,349.0 208.4,287.5 213.3,223.4" fill="#ff2a36" fill-opacity="0.22" stroke="#c1121f" stroke-width="2.5"/>
+<circle cx="301.4" cy="203.2" r="4" fill="#f2f2f2" stroke="#c1121f" stroke-width="1.5"/>
+<circle cx="315.4" cy="295.2" r="4" fill="#f2f2f2" stroke="#c1121f" stroke-width="1.5"/>
+<circle cx="250.0" cy="349.0" r="4" fill="#f2f2f2" stroke="#c1121f" stroke-width="1.5"/>
+<circle cx="208.4" cy="287.5" r="4" fill="#f2f2f2" stroke="#c1121f" stroke-width="1.5"/>
+<circle cx="213.3" cy="223.4" r="4" fill="#f2f2f2" stroke="#c1121f" stroke-width="1.5"/>
+<text x="345.8" y="142.1" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e6e6e6" text-anchor="start">Python</text>
+<text x="405.0" y="324.4" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e6e6e6" text-anchor="start">Bash</text>
+<text x="250.0" y="437.0" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e6e6e6" text-anchor="middle">JavaScript</text>
+<text x="95.0" y="324.4" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e6e6e6" text-anchor="end">C++</text>
+<text x="154.2" y="142.1" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#e6e6e6" text-anchor="end">SQL</text>
+<text x="250.0" y="28" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#f2f2f2" text-anchor="middle">Language Radar</text>
+</svg>
