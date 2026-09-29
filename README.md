@@ -127,8 +127,12 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 | | |
 |---|---|
 | 🖤 **Filosofía** | Soy un fatalista |
+| 🎂 **Edad** | 24 años |
+| 🏳️ **Pronombres** | she/ella |
+| 📍 **País** | Chile |
 | 🎓 **Estudio** | Redes, cloud y ciberseguridad |
 | 🔭 **Ahora estoy en** | Hardening, ISO 27001 y laboratorios de red |
+| 🎮 **Intereses** | Videojuegos, ciberseguridad, redes y tecnología en general |
 | 🛠️ **Me gusta hacer** | Apps Android, sitios web y automatizaciones |
 | 🐧 **Mi sistema** | CachyOS + Hyprland, todo personalizado |
 | 🎨 **Mi paleta** | Negro, blanco y rojo: easykid |
