@@ -2,12 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header-negro-rojo.svg" alt="bluemoon" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=E6E6E6&center=true&vCenter=true&width=760&lines=Hola%2C+soy+bluemoon+%F0%9F%8C%99;Soy+un+fatalista+%F0%9F%96%A4;Estudio+redes+y+ciberseguridad+%F0%9F%9B%A1%EF%B8%8F;Armo+labs+en+GNS3+y+Packet+Tracer+%F0%9F%8C%90;Hago+apps+en+Kotlin+y+sitios+web+%F0%9F%93%B1;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Toca+los+botones+de+abajo+%F0%9F%91%87" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E6E6E6&center=true&vCenter=true&width=820&lines=24+a%C3%B1os+%C2%B7+she%2Fella+%C2%B7+Chile+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88;Soy+un+fatalista+%F0%9F%96%A4;Estudio+redes%2C+cloud+y+ciberseguridad+%F0%9F%8E%93;Ahora+en+hardening%2C+ISO+27001+y+labs+de+red+%F0%9F%94%AD;Me+interesan+los+videojuegos+y+la+tecnolog%C3%ADa+%F0%9F%8E%AE;Hago+apps+Android%2C+sitios+web+y+automatizaciones+%F0%9F%9B%A0%EF%B8%8F;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Mi+paleta%3A+negro%2C+blanco+y+rojo+%F0%9F%8E%A8" alt="Typing SVG" />
 
 <br><br>
 
 <a href="#proyectos"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Proyectos-c1121f?style=for-the-badge&labelColor=0d0d0d" alt="Proyectos" /></a>
-<a href="#sobre-mi"><img src="https://img.shields.io/badge/%F0%9F%8C%99_Sobre_m%C3%AD-e6e6e6?style=for-the-badge&labelColor=0d0d0d" alt="Sobre mí" /></a>
 <a href="#stack"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Stack-8b0d16?style=for-the-badge&labelColor=0d0d0d" alt="Stack" /></a>
 <a href="#actividad"><img src="https://img.shields.io/badge/%F0%9F%90%8D_Actividad-4c75f0?style=for-the-badge&labelColor=0d0d0d" alt="Actividad" /></a>
 
@@ -113,30 +112,6 @@ Control de máquinas Windows a distancia mediante Telegram, en Python.
 <br>
 
 Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, visualizador de audio, panel de Wi-Fi/Bluetooth y pantalla de bloqueo propia. Los dotfiles viven en un repo privado.
-
-</details>
-
-<a id="sobre-mi"></a>
-
-## 🌙 Sobre mí
-
-<details open>
-<summary><b>Toca para plegar o desplegar</b></summary>
-<br>
-
-| | |
-|---|---|
-| 🖤 **Filosofía** | Soy un fatalista |
-| 🎂 **Edad** | 24 años |
-| 🏳️ **Pronombres** | she/ella |
-| 🏳️‍🌈 **Comunidad** | LGBTQ+ |
-| 📍 **País** | Chile |
-| 🎓 **Estudio** | Redes, cloud y ciberseguridad |
-| 🔭 **Ahora estoy en** | Hardening, ISO 27001 y laboratorios de red |
-| 🎮 **Intereses** | Videojuegos, ciberseguridad, redes y tecnología en general |
-| 🛠️ **Me gusta hacer** | Apps Android, sitios web y automatizaciones |
-| 🐧 **Mi sistema** | CachyOS + Hyprland, todo personalizado |
-| 🎨 **Mi paleta** | Negro, blanco y rojo: easykid |
 
 </details>
 
