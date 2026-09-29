@@ -24,6 +24,9 @@ import os
 # - Hardening (35): lo mencionás como foco ACTUAL/en curso, no como algo ya asentado.
 # - Pentesting (25): solo el badge de Kali Linux y la ingeniería inversa de BLE
 #   (uLamp/Ambilight) — no hay un proyecto de pentesting formal en los repos.
+# - IoT (45): riego-iot-nodemcu (NodeMCU + DHT22 + sensor de suelo, integrado a
+#   Firebase), HomePass (control de acceso IoT) y la ingeniería inversa BLE de
+#   uLamp/Ambilight — tres proyectos reales con hardware/firmware.
 # - Forense (10): sin evidencia en ningún repo.
 # TODO(savka): siguen siendo una estimación — ajusta si no te representan.
 SECURITY_SKILLS = {
@@ -32,6 +35,7 @@ SECURITY_SKILLS = {
     "Hardening": 35,
     "GRC": 55,
     "Cloud": 45,
+    "IoT": 45,
     "Forense": 10,
 }
 
@@ -46,9 +50,13 @@ SECURITY_SKILLS = {
 #   pero no en cero.
 # - Bash: la mayoría de tus "Shell" son scripts puntuales de despliegue, no
 #   desarrollo central.
+# - Kotlin: lenguaje principal de dos apps reales completas, HomePass
+#   (~95K bytes) y riego-iot-nodemcu (~21K bytes) — comparable a tu nivel de
+#   Python.
 # TODO(savka): siguen siendo una estimación — ajusta si no te representan.
 LANGUAGE_SKILLS = {
     "Python": 55,
+    "Kotlin": 50,
     "Bash": 25,
     "JavaScript": 45,
     "C++": 30,
