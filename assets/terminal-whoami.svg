@@ -20,7 +20,7 @@
 
     <!-- panel izquierdo -->
     <g font-family="Consolas, 'Courier New', monospace" font-size="17">
-      <text x="32" y="80" fill="#c1121f">savka@thynk<tspan fill="#e6e6e6">:~$ </tspan><tspan fill="#f2f2f2">whoami</tspan></text>
+      <text x="32" y="80" fill="#c1121f">savka@bluemoon<tspan fill="#e6e6e6">:~$ </tspan><tspan fill="#f2f2f2">whoami</tspan></text>
       <text x="32" y="114" fill="#f2f2f2">savka &#8211; Estudiante de Ciberseguridad</text>
 
       <text x="32" y="152" fill="#c1121f">context:<tspan fill="#e6e6e6"> Chile &#128317;</tspan></text>
@@ -43,17 +43,16 @@
       <circle cx="742" cy="112" r="4" fill="#0d0d0d" opacity="0.5"/>
       <text x="780" y="124" fill="#f2f2f2" font-size="15">negro-rojo runtime</text>
 
-      <text x="732" y="160" fill="#9a9a9a">org:<tspan fill="#e6e6e6"> THYNK-UNLIMITED &#183; Jefe TI</tspan></text>
-      <text x="732" y="186" fill="#9a9a9a">os:<tspan fill="#e6e6e6"> Linux &#183; CachyOS + Hyprland</tspan></text>
-      <text x="732" y="212" fill="#9a9a9a">focus:<tspan fill="#e6e6e6"> redes &#183; cloud &#183; hardening</tspan></text>
+      <text x="732" y="160" fill="#9a9a9a">os:<tspan fill="#e6e6e6"> Linux &#183; CachyOS + Hyprland</tspan></text>
+      <text x="732" y="186" fill="#9a9a9a">focus:<tspan fill="#e6e6e6"> redes &#183; cloud &#183; hardening</tspan></text>
 
-      <text x="732" y="250" fill="#c1121f">status:<tspan fill="#e6e6e6"> aprendiendo siempre</tspan></text>
-      <rect x="732" y="264" width="330" height="6" rx="3" fill="#2b2b2b"/>
-      <rect x="732" y="264" width="230" height="6" rx="3" fill="#c1121f">
+      <text x="732" y="224" fill="#c1121f">status:<tspan fill="#e6e6e6"> aprendiendo siempre</tspan></text>
+      <rect x="732" y="238" width="330" height="6" rx="3" fill="#2b2b2b"/>
+      <rect x="732" y="238" width="230" height="6" rx="3" fill="#c1121f">
         <animate attributeName="width" values="180;260;180" dur="4s" repeatCount="indefinite"/>
       </rect>
 
-      <text x="732" y="304" fill="#9a9a9a">uptime:<tspan fill="#e6e6e6"> construyendo en GitHub</tspan></text>
+      <text x="732" y="278" fill="#9a9a9a">uptime:<tspan fill="#e6e6e6"> construyendo en GitHub</tspan></text>
     </g>
   </g>
 </svg>
