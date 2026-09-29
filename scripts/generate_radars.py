@@ -3,31 +3,56 @@
 Genera los radares SVG de assets/radar-security.svg y assets/radar-languages.svg
 usando la paleta negro/blanco/rojo (easykid) del perfil.
 
-Edita los diccionarios SECURITY_SKILLS y LANGUAGE_SKILLS de abajo (valores 0-100,
-son autoevaluación subjetiva, no vienen de ninguna fuente externa) y corre:
+Edita los diccionarios SECURITY_SKILLS y LANGUAGE_SKILLS de abajo (valores 0-100)
+y corre:
 
     python scripts/generate_radars.py
+
+Los valores de partida NO son inventados al azar: están acotados por la evidencia
+real en tus repos públicos (gh api repos/.../languages y el contenido de cada
+proyecto). Siguen siendo una estimación, no una medición exacta — ajústalos si no
+reflejan tu nivel real.
 """
 import math
 import os
 
-# TODO(savka): estos valores son un punto de partida, ajústalos a tu criterio real.
+# Basado en la profundidad de evidencia real por repo, no en autoevaluación libre:
+# - Redes (60): labs de Cisco Packet Tracer + GNS3 con OSPF/VLAN/DHCP y defensa oral.
+# - GRC (55): sgsi-novaretail, un SGSI completo basado en ISO/IEC 27001:2022.
+# - Cloud (45): AWS Gallery (despliegue + informe de arquitectura) y Firebase en
+#   varios proyectos (shark2026, riego-iot-nodemcu, HomePass).
+# - Hardening (35): lo mencionás como foco ACTUAL/en curso, no como algo ya asentado.
+# - Pentesting (25): solo el badge de Kali Linux y la ingeniería inversa de BLE
+#   (uLamp/Ambilight) — no hay un proyecto de pentesting formal en los repos.
+# - Forense (10): sin evidencia en ningún repo.
+# TODO(savka): siguen siendo una estimación — ajusta si no te representan.
 SECURITY_SKILLS = {
-    "Pentesting": 55,
-    "Redes": 75,
-    "Hardening": 65,
-    "GRC": 60,
-    "Cloud": 55,
-    "Forense": 40,
+    "Pentesting": 25,
+    "Redes": 60,
+    "Hardening": 35,
+    "GRC": 55,
+    "Cloud": 45,
+    "Forense": 10,
 }
 
-# TODO(savka): idem, ajusta según tu nivel real en cada lenguaje.
+# Basado en bytes de código por lenguaje (gh api repos/.../languages) sumados en
+# todos tus repos públicos, con dos ajustes manuales:
+# - Python: Gmexpress-Backend reporta ~15MB de Python, pero ese repo tiene una
+#   carpeta venv/ commiteada (entorno virtual, no código tuyo) — descontado.
+#   El resto es real: manage.py, apps de Django, scripts de utilidades, más el
+#   Python de miksapropiedades.
+# - SQL: no hay archivos .sql trackeados por GitHub, pero sí trabajo real con
+#   bases de datos (MySQL en HomePass y Gmexpress-Backend) — se refleja bajo
+#   pero no en cero.
+# - Bash: la mayoría de tus "Shell" son scripts puntuales de despliegue, no
+#   desarrollo central.
+# TODO(savka): siguen siendo una estimación — ajusta si no te representan.
 LANGUAGE_SKILLS = {
-    "Python": 70,
-    "Bash": 55,
-    "JavaScript": 60,
-    "C++": 35,
-    "SQL": 50,
+    "Python": 55,
+    "Bash": 25,
+    "JavaScript": 45,
+    "C++": 30,
+    "SQL": 30,
 }
 
 BG = "#0d0d0d"

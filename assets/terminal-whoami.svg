@@ -22,16 +22,15 @@
     <g font-family="Consolas, 'Courier New', monospace" font-size="17">
       <text x="32" y="80" fill="#c1121f">savka@thynk<tspan fill="#e6e6e6">:~$ </tspan><tspan fill="#f2f2f2">whoami</tspan></text>
       <text x="32" y="114" fill="#f2f2f2">savka &#8211; Estudiante de Ciberseguridad</text>
-      <text x="32" y="140" fill="#9a9a9a">INACAP &#183; Ing. en Ciberseguridad &#183; 5to semestre</text>
 
-      <text x="32" y="176" fill="#c1121f">context:<tspan fill="#e6e6e6"> Chile &#128317;</tspan></text>
-      <text x="32" y="204" fill="#c1121f">mission:<tspan fill="#e6e6e6"> proteger sistemas y aprender</tspan></text>
-      <text x="32" y="226" fill="#e6e6e6">          rompiéndolos (en laboratorio)</text>
+      <text x="32" y="152" fill="#c1121f">context:<tspan fill="#e6e6e6"> Chile &#128317;</tspan></text>
+      <text x="32" y="180" fill="#c1121f">mission:<tspan fill="#e6e6e6"> proteger sistemas y aprender</tspan></text>
+      <text x="32" y="202" fill="#e6e6e6">          rompiéndolos (en laboratorio)</text>
 
-      <text x="32" y="262" fill="#c1121f">$ <tspan fill="#f2f2f2">ls expertise/</tspan></text>
-      <text x="32" y="288" fill="#e6e6e6">blue-team/  red-team/  redes/  iot-security/</text>
+      <text x="32" y="238" fill="#c1121f">$ <tspan fill="#f2f2f2">ls expertise/</tspan></text>
+      <text x="32" y="264" fill="#e6e6e6">blue-team/  red-team/  redes/  iot-security/</text>
 
-      <text x="32" y="328" fill="#f2f2f2">$ <tspan fill="#f2f2f2">_</tspan>
+      <text x="32" y="304" fill="#f2f2f2">$ <tspan fill="#f2f2f2">_</tspan>
         <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/>
       </text>
     </g>
@@ -54,7 +53,7 @@
         <animate attributeName="width" values="180;260;180" dur="4s" repeatCount="indefinite"/>
       </rect>
 
-      <text x="732" y="304" fill="#9a9a9a">uptime:<tspan fill="#e6e6e6"> desde 2022 en GitHub</tspan></text>
+      <text x="732" y="304" fill="#9a9a9a">uptime:<tspan fill="#e6e6e6"> construyendo en GitHub</tspan></text>
     </g>
   </g>
 </svg>
