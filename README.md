@@ -129,6 +129,7 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 | 🖤 **Filosofía** | Soy un fatalista |
 | 🎂 **Edad** | 24 años |
 | 🏳️ **Pronombres** | she/ella |
+| 🏳️‍🌈 **Comunidad** | LGBTQ+ |
 | 📍 **País** | Chile |
 | 🎓 **Estudio** | Redes, cloud y ciberseguridad |
 | 🔭 **Ahora estoy en** | Hardening, ISO 27001 y laboratorios de red |
