@@ -15,6 +15,10 @@
 ![Visitas](https://komarev.com/ghpvc/?username=savkacarvajal&label=Visitas&color=c1121f&style=flat-square)
 ![Seguidores](https://img.shields.io/github/followers/savkacarvajal?label=Seguidores&style=flat-square&color=e6e6e6&labelColor=0d0d0d)
 
+<br>
+
+<a href="https://instagram.com/blu3.mo0n_"><img src="https://img.shields.io/badge/Instagram-%40blu3.mo0n__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Instagram" /></a>
+
 </div>
 
 <a id="proyectos"></a>
