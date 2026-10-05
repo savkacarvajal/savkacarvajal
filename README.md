@@ -121,6 +121,7 @@
 | 🌱 [riego-iot-nodemcu](https://github.com/savkacarvajal/riego-iot-nodemcu) | Sistema de riego IoT con NodeMCU, DHT22 y sensor de suelo | NodeMCU · Firebase |
 | 🏠 [miksapropiedades](https://github.com/savkacarvajal/miksapropiedades) | Sitio web inmobiliario | HTML5 |
 | 🛡️ [sgsi-novaretail](https://github.com/savkacarvajal/sgsi-novaretail) | SGSI basado en ISO/IEC 27001:2022 para un caso de retail | Documentación técnica |
+| 🔐 [pnkSecurity](https://github.com/savkacarvajal/pnkSecurity) | Pentesting y remediación de una tienda web PHP vulnerable: 12 vulnerabilidades corregidas, un commit por cada una | PHP · MySQL |
 | 🍽️ [Gmexpress-Backend](https://github.com/savkacarvajal/Gmexpress-Backend) | Sistema de gestión para servicios de alimentación y eventos, con CRUD y panel admin | Django |
 | 🛒 [Gm-Express-Prototype](https://github.com/savkacarvajal/Gm-Express-Prototype) | Mockup de plataforma e-commerce de servicios de alimentación corporativa | Astro |
 
