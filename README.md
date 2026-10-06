@@ -173,7 +173,7 @@ Escritorio a medida: barra Waybar, dashboard con EWW, paneles con Quickshell, vi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=savkacarvajal&hide_border=true&background=0D0D0D&ring=C1121F&fire=FF3B47&currStreakNum=E6E6E6&currStreakLabel=C1121F&sideNums=E6E6E6&sideLabels=9A9A9A&dates=9A9A9A" alt="Racha" />
+<img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/output/streak.svg" alt="Racha" />
 
 <br><br>
 
