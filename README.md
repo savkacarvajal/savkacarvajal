@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/savkacarvajal/savkacarvajal/main/assets/header-negro-rojo.svg" alt="bluemoon" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E6E6E6&center=true&vCenter=true&width=820&lines=24+a%C3%B1os+%C2%B7+she%2Fella+%C2%B7+Chile+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88;Soy+un+fatalista+%F0%9F%96%A4;Estudio+redes%2C+cloud+y+ciberseguridad+%F0%9F%8E%93;Ahora+en+hardening%2C+ISO+27001+y+labs+de+red+%F0%9F%94%AD;Me+interesan+los+videojuegos+y+la+tecnolog%C3%ADa+%F0%9F%8E%AE;Hago+apps+Android%2C+sitios+web+y+automatizaciones+%F0%9F%9B%A0%EF%B8%8F;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Mi+paleta%3A+negro%2C+blanco+y+rojo+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E6E6E6&center=true&vCenter=true&width=820&lines=24+a%C3%B1os+%C2%B7+she%2Fella+%C2%B7+Chile+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88;Soy+un+fatalista+%F0%9F%96%A4;Estudio+redes%2C+cloud+y+ciberseguridad+%F0%9F%8E%93;Ahora+en+hardening%2C+ISO+27001+y+labs+de+red+%F0%9F%94%AD;Aprendiendo+Docker+y+contenedores+%F0%9F%90%B3;Me+interesan+los+videojuegos+y+la+tecnolog%C3%ADa+%F0%9F%8E%AE;Hago+apps+Android%2C+sitios+web+y+automatizaciones+%F0%9F%9B%A0%EF%B8%8F;Vivo+en+Linux%3A+CachyOS+%2B+Hyprland+%F0%9F%90%A7;Mi+paleta%3A+negro%2C+blanco+y+rojo+%F0%9F%8E%A8" alt="Typing SVG" />
 
 <br><br>
 
