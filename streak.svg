@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="130" viewBox="0 0 495 130" role="img" aria-label="Racha de contribuciones">
+<rect width="495" height="130" rx="8" fill="#0D0D0D"/>
+<text x="82" y="60" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#E6E6E6">142</text>
+<text x="82" y="108" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9A9A9A">Contribuciones totales</text>
+<text x="82" y="124" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#9A9A9A">2022 – 2026</text>
+<circle cx="247" cy="52" r="34" fill="none" stroke="#C1121F" stroke-width="5"/>
+<text x="247" y="60" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#E6E6E6">0</text>
+<text x="247" y="108" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C1121F">Racha actual</text>
+<text x="247" y="124" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#9A9A9A">días seguidos</text>
+<text x="412" y="60" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#E6E6E6">3</text>
+<text x="412" y="108" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9A9A9A">Racha más larga</text>
+<text x="412" y="124" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#9A9A9A">días seguidos</text>
+<line x1="165" y1="22" x2="165" y2="108" stroke="#2a2a2a"/>
+<line x1="330" y1="22" x2="330" y2="108" stroke="#2a2a2a"/>
+</svg>
